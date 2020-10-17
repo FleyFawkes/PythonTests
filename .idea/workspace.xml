@@ -1,22 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f5566d9-0e88-4b8f-9b4b-74b56e9b9e6c" name="Default Changelist" comment="" />
+    <list default="true" id="9f5566d9-0e88-4b8f-9b4b-74b56e9b9e6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ipicGrAy1wLaiTatZup1NMWNKw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,5 +83,58 @@
       <updated>1602611011701</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602960422055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="400" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602960422055" />
+    <state x="671" y="234" width="864" height="560" key="DiffContextDialog" timestamp="1602970069828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="671" y="234" width="864" height="560" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602970069828" />
+    <state width="877" height="140" key="GridCell.Tab.0.bottom" timestamp="1602974125201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="877" height="140" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602974125201" />
+    <state width="877" height="140" key="GridCell.Tab.0.center" timestamp="1602974125201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="877" height="140" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602974125201" />
+    <state width="877" height="140" key="GridCell.Tab.0.left" timestamp="1602974125200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="877" height="140" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602974125200" />
+    <state width="877" height="140" key="GridCell.Tab.0.right" timestamp="1602974125201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="877" height="140" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602974125201" />
+    <state x="1231" y="171" key="RollbackChangesDialog" timestamp="1602968692048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1231" y="171" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602968692048" />
+    <state x="577" y="144" key="SettingsEditor" timestamp="1602972731391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="144" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602972731391" />
+    <state x="837" y="379" width="612" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1602961489094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="837" y="379" width="612" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602961489094" />
   </component>
 </project>
