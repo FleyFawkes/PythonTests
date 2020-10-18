@@ -4,3 +4,5 @@
 venv/
 login.txt
 *.log
+.pytest_cache
+.coverage

@@ -19,19 +19,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f5566d9-0e88-4b8f-9b4b-74b56e9b9e6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="9f5566d9-0e88-4b8f-9b4b-74b56e9b9e6c" name="Default Changelist" comment="Trying out, adding req. driver. updating ignore">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_1_landing_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_2_searchbar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_3_page_load_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_4_simple_API_requests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_5_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Selenium.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,9 +59,15 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pliki\Git_repo\Selenium\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_2_searchbar.test_2_method1">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +89,100 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_1_landing_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/test_1_landing_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_2_searchbar.test_2_method1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_2_searchbar.test_2_method1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_2_searchbar.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/test_2_searchbar.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_3_page_load_time.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/test_3_page_load_time.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_4_simple_API_requests.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/test_4_simple_API_requests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_2_searchbar.test_2_method1" />
+        <item itemvalue="Python tests.pytest in test_2_searchbar.py" />
+        <item itemvalue="Python.test_1_landing_page" />
+        <item itemvalue="Python tests.pytest in test_4_simple_API_requests.py" />
+        <item itemvalue="Python tests.pytest in test_3_page_load_time.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,6 +193,14 @@
       <option name="presentableId" value="Default" />
       <updated>1602611011701</updated>
     </task>
+    <task id="LOCAL-00001" summary="Trying out, adding req. driver. updating ignore">
+      <created>1602974554770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602974554770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +217,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Trying out, adding req. driver. updating ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying out, adding req. driver. updating ignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="400" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602960422055">
@@ -108,30 +229,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="671" y="234" width="864" height="560" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602970069828" />
-    <state width="877" height="140" key="GridCell.Tab.0.bottom" timestamp="1602974125201">
+    <state width="877" height="213" key="GridCell.Tab.0.bottom" timestamp="1603054629132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="877" height="140" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602974125201" />
-    <state width="877" height="140" key="GridCell.Tab.0.center" timestamp="1602974125201">
+    <state width="877" height="213" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603054629132" />
+    <state width="877" height="213" key="GridCell.Tab.0.center" timestamp="1603054629131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="877" height="140" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602974125201" />
-    <state width="877" height="140" key="GridCell.Tab.0.left" timestamp="1602974125200">
+    <state width="877" height="213" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603054629131" />
+    <state width="877" height="213" key="GridCell.Tab.0.left" timestamp="1603054629131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="877" height="140" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602974125200" />
-    <state width="877" height="140" key="GridCell.Tab.0.right" timestamp="1602974125201">
+    <state width="877" height="213" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603054629131" />
+    <state width="877" height="213" key="GridCell.Tab.0.right" timestamp="1603054629131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="877" height="140" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602974125201" />
+    <state width="877" height="213" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603054629131" />
     <state x="1231" y="171" key="RollbackChangesDialog" timestamp="1602968692048">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1231" y="171" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602968692048" />
-    <state x="577" y="144" key="SettingsEditor" timestamp="1602972731391">
+    <state x="922" y="217" key="SettingsEditor" timestamp="1603025228494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="577" y="144" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602972731391" />
+    <state x="922" y="217" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603025228494" />
+    <state x="759" y="338" key="Vcs.Push.Dialog.v2" timestamp="1602974586464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602974586464" />
+    <state x="985" y="519" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602974574774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="985" y="519" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602974574774" />
     <state x="837" y="379" width="612" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1602961489094">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
