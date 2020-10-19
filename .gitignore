@@ -6,3 +6,4 @@ login.txt
 *.log
 .pytest_cache
 .coverage
+testcase/*.png

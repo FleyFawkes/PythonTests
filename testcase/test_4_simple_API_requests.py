@@ -1,6 +1,7 @@
 import requests
 from datetime import timedelta
 
+
 response = requests.get("https://randomfox.ca/floof")
 
 
@@ -21,5 +22,4 @@ def test_4_method3():   #to check elapsed time from request instance.
     response = requests.get("https://randomfox.ca/floof")
     print(response.elapsed)
     assert response.elapsed < timedelta(seconds=1), "Assertion Error #4.3 - request took too long"
-
 
