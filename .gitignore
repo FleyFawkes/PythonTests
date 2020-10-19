@@ -7,3 +7,4 @@ login.txt
 .pytest_cache
 .coverage
 testcase/*.png
+.idea
