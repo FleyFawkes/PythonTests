@@ -15,7 +15,7 @@ def test_4_method2():   #foxes should be randomized.
         response = requests.get("https://randomfox.ca/floof")
         fox.append(response.text)
     print(fox)
-    assert fox[0] is not fox[1] is not fox[2] is not fox[0], "Assertion Error #4.2 - foxes are not randomized"
+    assert fox[0] is not fox[1] is not fox[2], "Assertion Error #4.2 - foxes are not randomized"
 
 
 def test_4_method3():   #to check elapsed time from request instance.
