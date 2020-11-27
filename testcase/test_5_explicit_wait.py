@@ -13,6 +13,6 @@ wait = WebDriverWait(driver, 2)
 @pytest.mark.skip
 def test_5_method1():
     elements = wait.until(EC.presence_of_all_elements_located((By.PARTIAL_LINK_TEXT, "cat")))
-    assert True if elements else False, "Assertion Error #1.2 - element do not exist."
+    assert True if elements else False, "Assertion Error #5.1 - element do not exist."
 
 driver.close()
