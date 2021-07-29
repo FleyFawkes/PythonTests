@@ -1,7 +1,7 @@
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import unittest
-from PageObjects1.googleHomePage import HomePage
+from PageObjects1.google import HomePage
 
 
 class GoogleSearch(unittest.TestCase):
